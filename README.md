@@ -13,7 +13,6 @@
 - 🌐 Know more about me here: [hsanirudh.tech](https://hsanirudh.tech)
 - 💬 Ask me about **anything that you feel like!!**
 - 📫 How to reach me: **hsanirudh@gmail.com**
-- ⚡ Fun fact: **I play several musical instruments**
 
 ---
 
