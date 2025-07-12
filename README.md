@@ -107,9 +107,6 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
   </a>
